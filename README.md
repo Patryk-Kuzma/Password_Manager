@@ -7,5 +7,6 @@ It allows to:
 
 It uses:
 - UI (tkinter)
-- .json data format to save/read/update data
+- .json data format (to save/read/update data)
 - pyperclip module (to automatically copy the genereted password)
+- random module (to generate random password)
